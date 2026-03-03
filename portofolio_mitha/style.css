@@ -260,11 +260,11 @@ section.active {
 }
 
 .profile-img {
-    width: 250px;        
+    width: 260px;        
     height: auto;
     object-fit: contain;
     filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.3));
-    margin-right: -1rem;
+    margin-right: 0rem;
 }
 
 /* About Section Specific */
